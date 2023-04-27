@@ -34,11 +34,7 @@
               "src/styles.scss"
             ],
             "scripts": [
-              "./node_modules/hammerjs/hammer.min.js",
-              "./node_modules/jquery/dist/jquery.min.js",
-              "./node_modules/quill/dist/quill.min.js",
-              "./node_modules/dayjs/dayjs.min.js",
-              "src/assets/infragistics.reveal.js"
+              "./node_modules/hammerjs/hammer.min.js"
             ],
             "stylePreprocessorOptions": {
               "includePaths": ["node_modules"]
